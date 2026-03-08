@@ -46,12 +46,12 @@ Additional: Transformers, LangChain, Streamlit, Matplotlib
 
 ## Featured Projects
 
-### Advanced Glaucoma Detection System
-**Tech Stack:** Python, OpenCV, Machine Learning, Scikit-learn  
+### Optic Disc Detection & Segmentation Pipeline
+**Tech Stack:** Python, OpenCV, Deep Learning, Scikit-learn
 
-- Hybrid pipeline integrating CDR, ISNT, and GLCM texture analysis  
-- Voting logic using tissue entropy for blurry or over-exposed images  
-- Clinical thresholds (CDR > 0.6, I>S>N>T) for early detection  
+* Comparative pipeline evaluating supervised CNNs (U-Net) against unsupervised clustering algorithms (K-Means, DBSCAN)
+* Achieved peak performance of 92.92% Mean Dice Coefficient and 99.80% Pixel Accuracy using a deep learning architecture
+* Optimized boundary detection across zero-training models using targeted ROI-CLAHE and mathematical elliptical fitting  
 
 ---
 
