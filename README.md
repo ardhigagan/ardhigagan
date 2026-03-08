@@ -55,7 +55,7 @@ Additional: Transformers, LangChain, Streamlit, Matplotlib
 
 ---
 
-### Legal Compass — NLP Contract Analysis Engine
+### Legal Lens — NLP Contract Analysis Engine
 **Tech Stack:** Python, Transformers, LangChain, Streamlit  
 
 - Long-document summarization using chunking and BART models  
