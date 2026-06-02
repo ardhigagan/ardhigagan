@@ -68,7 +68,7 @@ Additional: Transformers, LangChain, Streamlit, Matplotlib
 ## Achievements & Certifications
 
 - Top 50 teams in Smart India Hackathon 2025 (TRAVELMAiT project)  
-- Solved 300+ DSA problems on LeetCode and GeeksforGeeks  
+- Solved 400+ DSA problems on LeetCode and GeeksforGeeks  
 - IBM Machine Learning Specialization  
 - IBM Data Science Professional Certificate  
 - Google Data Analytics Professional Certificate  
@@ -79,7 +79,7 @@ Additional: Transformers, LangChain, Streamlit, Matplotlib
 
 **B.Tech in Computer Science and Engineering (2023–2027)**  
 Kalinga Institute of Industrial Technology  
-CGPA: 9.22  
+CGPA: 9.30  
 
 **CBSE Class XII (2023)** — 93.6%  
 **CBSE Class X (2021)** — 94%  
@@ -89,5 +89,4 @@ CGPA: 9.22
 ## Contact
 
 LinkedIn: https://linkedin.com/in/ardhigagan  
-GitHub: https://github.com/ardhigagan  
 Email: agagan2005@gmail.com
