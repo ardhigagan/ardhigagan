@@ -21,7 +21,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ardhigagan&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ardhigagan?style=flat-square&color=6D28D9&label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/ardhigagan?style=flat-square&color=6D28D9&label=followers)
 
 </div>
 
