@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ardhigagan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ardhigagan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ardhigagan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agagan2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardhigagan)
@@ -30,13 +30,13 @@
 ## ◈ About
 
 ```yaml
-name       : Ardhi Gagan
-alias      : ardhigagan
-education  : B.Tech Computer Science & Engineering — KIIT University (2023–2027)
-cgpa       : 9.30 / 10
-focus      : AI Engineering · Full Stack Development · ML Research
-interests  : LLM Systems · RAG Pipelines · Computer Vision · Data Engineering
-currently  : Building AI-driven applications & seeking internship / entry-level roles
+Name       : Ardhi Gagan
+Alias      : ardhigagan
+Education  : B.Tech Computer Science & Engineering — KIIT University (2023–2027)
+CGPA       : 9.30 / 10
+Focus      : AI Engineering · Full Stack Development · ML Research
+Interests  : LLM Systems · RAG Pipelines · Computer Vision · Data Engineering
+Currently  : Building AI-driven applications & seeking internship / entry-level roles
 ```
 
 I am a final-year Computer Science student at KIIT University with a deep focus on building production-grade AI systems. My work spans the full spectrum — from fine-tuning transformer architectures and designing RAG pipelines to shipping full-stack web applications with real users. I treat engineering as a craft: clean abstractions, measurable outcomes, and systems that scale.
@@ -53,7 +53,7 @@ I bring a product engineering mindset to every project — not just making thing
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,c&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -61,17 +61,25 @@ I bring a product engineering mindset to every project — not just making thing
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=flask,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,mongodb,redis,mysql&theme=dark)](https://skillicons.dev)
 
 **Cloud, DevOps & Tooling**
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+**AI / ML & Data Science**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
 
-`LangChain` `FAISS` `ChromaDB` `HuggingFace` `Groq` `LLaMA` `sentence-transformers` `Streamlit` `Pandas` `NumPy` `OpenCV` `LightGBM`
+`LangChain` `FAISS` `ChromaDB` `HuggingFace` `Groq` `LLaMA-3.3` `sentence-transformers` `Legal-BERT` `LoRA` `LightGBM` `BART` `Pandas` `NumPy` `Matplotlib` `Streamlit`
+
+**Visualization & Analytics**
+
+`Tableau` `Power BI` `Matplotlib` `Seaborn`
+
+**CS Fundamentals**
+
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks` `System Design`
 
 </div>
 
@@ -99,7 +107,7 @@ I bring a product engineering mindset to every project — not just making thing
 ## ◈ Featured Projects
 
 <details>
-<summary><b>🧠 TRAVELMAiT — AI Travel Platform for Odisha</b></summary>
+<summary><b>TRAVELMAiT — AI Travel Platform for Odisha</b></summary>
 
 <br/>
 
@@ -112,7 +120,7 @@ I bring a product engineering mindset to every project — not just making thing
 | **Architecture** | Full RAG pipeline with semantic chunking and vector retrieval; JWT auth; mood-based trip planner |
 | **Integrations** | Foursquare (hotels/restaurants), Cloudinary (photo CDN), Groq inference |
 | **Deployment** | Vercel (frontend) · Render (backend) |
-| **Repository** | [github.com/ardhigagan/travelmaIt](https://github.com/ardhigagan) |
+| **Repository** | [github.com/ardhigagan/travelmaIt](https://github.com/anshhh1101/TravelMAiT-V2.git) |
 
 TRAVELMAiT is more than a travel guide — it is a domain-specific AI agent that understands Odisha's cultural and geographic nuances. The RAG pipeline retrieves semantically relevant destination data and passes it to an LLaMA-3.3-70B model for grounded, hallucination-resistant responses. Built with collaborator Anshuman Dev for SIH 2025, achieving national Top 50 recognition.
 
@@ -121,7 +129,7 @@ TRAVELMAiT is more than a travel guide — it is a domain-specific AI agent that
 ---
 
 <details>
-<summary><b>⚖️ LegalLens v2.0 — NLP Contract Analysis Engine</b></summary>
+<summary><b>LegalLens v2.0 — NLP Contract Analysis Engine</b></summary>
 
 <br/>
 
@@ -134,7 +142,7 @@ TRAVELMAiT is more than a travel guide — it is a domain-specific AI agent that
 | **ML Techniques** | Long-doc chunking + BART summarization · Legal-BERT + LoRA fine-tuning · Zero-shot clause classification |
 | **Output** | Risk heatmap dashboard · Clause-level risk scoring · Structured contract summaries |
 | **Security** | On-premise vector store (FAISS); no raw document exposure |
-| **Repository** | [github.com/ardhigagan/legallens](https://github.com/ardhigagan) |
+| **Repository** | [github.com/ardhigagan/legallens](https://github.com/ardhigagan/LegalLens_v2.0.git) |
 
 LegalLens v2.0 pipelines lengthy contracts through a chunking-and-retrieval system before running domain-adapted Legal-BERT for clause classification. LoRA fine-tuning allowed efficient adaptation with minimal compute. The result is a Streamlit dashboard that gives legal reviewers an instant, auditable risk overview — replacing hours of manual review with seconds of AI-assisted analysis.
 
@@ -143,7 +151,7 @@ LegalLens v2.0 pipelines lengthy contracts through a chunking-and-retrieval syst
 ---
 
 <details>
-<summary><b>👁️ Optic Disc Detection & Segmentation Pipeline</b></summary>
+<summary><b>Optic Disc Detection & Segmentation Pipeline</b></summary>
 
 <br/>
 
@@ -156,7 +164,7 @@ LegalLens v2.0 pipelines lengthy contracts through a chunking-and-retrieval syst
 | **Techniques** | Supervised CNN (U-Net) vs. unsupervised clustering (K-Means, DBSCAN) |
 | **Preprocessing** | ROI-CLAHE · Mathematical elliptical fitting for zero-training boundary detection |
 | **Impact** | Co-authored research paper (in progress); contributes to accessible retinal diagnostics |
-| **Repository** | [github.com/ardhigagan/optic-disc-seg](https://github.com/ardhigagan) |
+| **Repository** | [github.com/ardhigagan/optic-disc-seg](https://github.com/ardhigagan/Optic-Disc-Detection.git) |
 
 This pipeline establishes a rigorous comparative study between a trained U-Net architecture and unsupervised clustering baselines. The unsupervised path uses targeted preprocessing — ROI-CLAHE contrast enhancement and elliptical fitting — to achieve competitive boundary localisation without any labelled training data, making it viable for low-resource clinical settings.
 
@@ -165,7 +173,7 @@ This pipeline establishes a rigorous comparative study between a trained U-Net a
 ---
 
 <details>
-<summary><b>🤖 KaaryaAI — AI Chief of Staff (Multi-Agent Productivity App)</b></summary>
+<summary><b>KaaryaAI — AI Chief of Staff (Multi-Agent Productivity App)</b></summary>
 
 <br/>
 
@@ -178,7 +186,7 @@ This pipeline establishes a rigorous comparative study between a trained U-Net a
 | **Deployment** | Google Cloud Run (serverless, production-deployed) |
 | **Hackathon** | Vibe2Ship 2026 — Coding Ninjas × Google for Developers |
 | **Capability** | Email triage · Meeting scheduling · Document retrieval · Cross-service task delegation |
-| **Repository** | [github.com/ardhigagan/kaaryaai](https://github.com/ardhigagan) |
+| **Repository** | [github.com/ardhigagan/kaaryaai](https://github.com/ardhigagan/KaaryaAI.git) |
 
 KaaryaAI demonstrates end-to-end agentic design — a central orchestrator decomposes user intent and delegates to specialised sub-agents handling Gmail, Calendar, and Drive independently. Deployed on Google Cloud Run for zero-downtime serverless execution. Submitted as a complete production-ready build within the hackathon window.
 
@@ -192,13 +200,13 @@ KaaryaAI demonstrates end-to-end agentic design — a central orchestrator decom
 
 | Recognition | Details |
 |---|---|
-| 🏆 **Smart India Hackathon 2025** | Top 50 nationally — TRAVELMAiT AI Travel Platform |
-| 🥇 **AINCAT 2026** | AIR 1861 · Top 7% nationally · 93.53 percentile |
-| 🎯 **Codequezt #30** | Rank 43 · Top 0.4% nationally |
-| 💻 **LeetCode 100 Days Badge 2026** | 450+ problems solved across DSA domains |
-| 🚀 **Vibe2Ship Hackathon 2026** | Submitted KaaryaAI — full multi-agent AI app on Google Cloud Run |
-| 🎓 **Google × Kaggle AI Agents Course** | Completed 5-Day AI Agents Intensive · Google learning badges earned |
-| 📊 **Gridlock Hackathon 2.0** | Traffic demand prediction · LightGBM · Leaderboard score ~86% |
+| **Smart India Hackathon 2025** | Top 50 nationally — TRAVELMAiT AI Travel Platform |
+| **AINCAT 2026** | AIR 1861 · Top 7% nationally · 93.53 percentile |
+| **Codequezt #30** | Rank 43 · Top 0.4% nationally |
+| **LeetCode 100 Days Badge 2026** | 450+ problems solved across DSA domains |
+| **Vibe2Ship Hackathon 2026** | Submitted KaaryaAI — full multi-agent AI app on Google Cloud Run |
+| **Google × Kaggle AI Agents Course** | Completed 5-Day AI Agents Intensive · Google learning badges earned |
+| **Gridlock Hackathon 2.0** | Traffic demand prediction · LightGBM · Leaderboard score ~86% |
 
 </div>
 
@@ -208,15 +216,25 @@ KaaryaAI demonstrates end-to-end agentic design — a central orchestrator decom
 
 <div align="center">
 
-**IBM**
+### IBM
+![IBM ML](https://img.shields.io/badge/IBM-Machine%20Learning%20Specialization-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM DS](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
-![IBM ML](https://img.shields.io/badge/IBM-Machine%20Learning%20Specialization-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![IBM DS](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-054ADA?style=flat-square&logo=ibm&logoColor=white)
+<br/>
 
-**Google**
+### Google
+![Google DA](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Kaggle](https://img.shields.io/badge/Google%20×%20Kaggle-AI%20Agents%20Intensive%202026-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-![Google DA](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google%20%C3%97%20Kaggle-AI%20Agents%20Intensive%20%282026%29-4285F4?style=flat-square&logo=google&logoColor=white)
+<br/>
+
+### ExcelR
+![Power BI](https://img.shields.io/badge/ExcelR-Power%20BI%20Data%20Visualization-FF6B35?style=for-the-badge&logo=powerbi&logoColor=white)
+
+<br/>
+
+### GeeksforGeeks
+![GFG 160](https://img.shields.io/badge/GeeksforGeeks-160%20Days%20of%20Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 </div>
 
@@ -241,10 +259,6 @@ KaaryaAI demonstrates end-to-end agentic design — a central orchestrator decom
 <img src="https://github-readme-stats.vercel.app/api?username=ardhigagan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhigagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhigagan&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9" height="180"/>
 
 </div>
 
